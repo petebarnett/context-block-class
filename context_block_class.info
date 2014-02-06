@@ -1,7 +1,0 @@
-name = Context Block Class
-description = Allows classes to be added to blocks within the context
-core = 7.x
-
-dependencies[] = context
-
-files[] = plugins/context_block_class_reaction_block.inc
